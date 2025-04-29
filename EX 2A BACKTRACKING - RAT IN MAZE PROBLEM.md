@@ -5,7 +5,7 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 
 ## Algorithm
 
-1. Initialize a solution matrix with zeros.
+1.Initialize a solution matrix with zeros.
    
 2.Start at the top-left corner and recursively explore possible paths.
 

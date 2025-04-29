@@ -6,7 +6,7 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 
 
 ## Algorithm
-1. Initialize an N x N board with all zeros.
+1.Initialize an N x N board with all zeros.
    
 2.Try placing a queen in each column, one by one.
 
